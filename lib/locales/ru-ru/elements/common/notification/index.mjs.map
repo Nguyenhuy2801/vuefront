@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../../src/locales/ru-ru/elements/common/notification/index.ts"],"names":["toast"],"mappings":"AAAA,OAAOA,KAAP;AAEA,eAAe;AACbA,EAAAA;AADa,CAAf","sourcesContent":["import toast from \"./toast.json\";\r\n\r\nexport default {\r\n  toast,\r\n};\r\n"],"file":"index.mjs"}
